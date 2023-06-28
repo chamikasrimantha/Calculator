@@ -8,5 +8,4 @@ There is on/off button by using this we can off it whenever we are not using. an
 
 
 #### Technology: Java Swing
-
 #### Developed By: Chamika Srimantha
